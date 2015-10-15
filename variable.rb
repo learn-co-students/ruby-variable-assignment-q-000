@@ -1,4 +1,3 @@
-var = "Greeting"
-"Greeting" = "Hello World"
-puts "Greetings"
+greeting = "Hello World"
+
 
