@@ -1,3 +1,4 @@
+greeting = "Hello World"
 # Code your solution in variable.rb
 describe "./variable.rb" do
 
