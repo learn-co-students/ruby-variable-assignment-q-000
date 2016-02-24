@@ -1,2 +1,3 @@
-greeting = "Hello World"
+greeting = ["Hello World"]
+board = Array.new[" ", " ", " ", " ", " ", " ", " ", " ", " ",]
 
