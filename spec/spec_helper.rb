@@ -1,5 +1,7 @@
 require_relative '../variable.rb'
 
+greating = 'Hello Cricky!'
+
 RSpec.configure do |config|
   config.order = 'default'
 end
